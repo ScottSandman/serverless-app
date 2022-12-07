@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
-    "serverless": "^1.71.1",
+    "serverless": "^3.25.1",
     "serverless-http": "^2.4.1"
   }
 }
